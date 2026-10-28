@@ -1,9 +1,8 @@
-<img src="assets/header.svg" width="100%" alt="Mohammad Abu Zahra — AI engineering, computer vision, document intelligence and Python APIs" />
+<img src="assets/header.svg" width="100%" alt="Mohammad Abu Zahra — AI Engineering, machine learning, deep learning, computer vision and document AI" />
 
 I build applied AI prototypes around computer vision, document processing and
 explainable decision workflows. My work focuses on making the input requirements,
 failure cases and evaluation limits clear enough for another engineer to review.
-
 
 ### Selected work
 
@@ -30,14 +29,6 @@ version control. Collaborative source is acknowledged where applicable.
 
 **Python · FastAPI · OpenCV · NumPy · PyTorch · Transformers · Ultralytics YOLO ·
 OCR · Pydantic · Docker · pytest · GitHub Actions**
-
-### Supporting work
-
-[System health reporter](https://github.com/m4az18/system-health-reporter) — local
-aggregate diagnostics with minimal identifier collection.
-
-[Phishing awareness lab](https://github.com/m4az18/phishing-awareness-lab) — a
-sanitized overview of a controlled security-awareness simulation.
 
 The portfolio distinguishes demonstrations from validated deployments. Repository
 documentation states where model assets, independent evaluation or production
