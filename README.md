@@ -4,7 +4,6 @@ I build applied AI prototypes around computer vision, document processing and
 explainable decision workflows. My work focuses on making the input requirements,
 failure cases and evaluation limits clear enough for another engineer to review.
 
-**Open to AI engineering and AI consulting opportunities.**
 
 ### Selected work
 
